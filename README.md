@@ -1,2 +1,2 @@
 Hi, I'm Christopher Kantor
-Junior in Computer Science at USF Tampa
+I'm a Junior in Computer Science at USF Tampa
