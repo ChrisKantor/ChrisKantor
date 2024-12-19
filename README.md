@@ -1,2 +1,2 @@
 Hi, I'm Christopher Kantor
-I'm a Graduate Student at USF Tampa currently pursuing a Master's in Computer Science! I hope to learn more about AI, with a focus on computer vision.
+I have a masters degree in computer science from USF, and love learning about the latest innovations in tech and AI.
